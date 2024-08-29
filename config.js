@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['234704535241', 'EXCEL', true], 
+  ['27767494368', 'Ave', true], 
   ['2348021779696', 'EXCEL', true], 
   ['234704503541', '⚡Excel', true],
 
